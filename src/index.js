@@ -1,9 +1,9 @@
-//Arquivos SASS
-import './scss/index.scss'
+// Arquivos SASS
+import "./scss/index.scss";
 
-// Dependencies
-import 'jquery'
-import 'bootstrap'
+// Dependencias
+import "jquery";
+import "bootstrap";
 
-//Meus arquivos js
-import './js/core/includes'
+// Meus arquivos JS
+import "./js/core/includes";
